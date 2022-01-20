@@ -1,0 +1,1 @@
+.pull{height:100vh;flex-direction:column;display:inline-block;opacity:1;transition:opacity 1s linear;background-color:#e0e0e0}.pull,.push{width:100%;overflow:hidden;z-index:1;position:absolute}.push{height:0;opacity:0;visibility:hidden;transition:all 1s linear}.img{width:2.2rem}.select{margin-top:2vh;padding:1vh;width:60%;font-size:30px}
